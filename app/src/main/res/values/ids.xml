@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="isiPertanyaan" type="id">pakaps</item>
+    <item name="kategori" type="id">kategori</item>
+    <item name="kodePertanyaan" type="id">kodepertanyaan</item>
+    <item name="card_pertanyaan" type="id">cardpertanyaan</item>
+</resources>
